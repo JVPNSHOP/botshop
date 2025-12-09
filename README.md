@@ -1,0 +1,2 @@
+# botshop
+auto
